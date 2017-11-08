@@ -1,9 +1,6 @@
 # Project-Nevia
 
 
-#                                                       Nevia
-
-
 # Setting
 A small white planet named Tiros with life
 Bright beautiful sea-weed looking plants all around taller than humans.
