@@ -1,5 +1,3 @@
-# Project-Nevia
-
 
 # Setting
 A small white planet named Tiros with life
