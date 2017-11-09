@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Nevia.Plugins", "Project-Nevia.Plugins.csproj", "{7A485C5E-50FF-7180-C017-D173B174ADBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Nevia.Editor.Plugins", "Project-Nevia.Editor.Plugins.csproj", "{C5051194-1101-767B-EABC-3B0386E8A285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A485C5E-50FF-7180-C017-D173B174ADBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A485C5E-50FF-7180-C017-D173B174ADBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A485C5E-50FF-7180-C017-D173B174ADBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A485C5E-50FF-7180-C017-D173B174ADBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5051194-1101-767B-EABC-3B0386E8A285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5051194-1101-767B-EABC-3B0386E8A285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5051194-1101-767B-EABC-3B0386E8A285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5051194-1101-767B-EABC-3B0386E8A285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
