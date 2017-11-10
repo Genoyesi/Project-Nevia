@@ -1,5 +1,3 @@
-# Project-Nevia
-
 
 # Setting
 A small white planet named Tiros with life
@@ -35,7 +33,7 @@ Saiquets try to protect and fix their home planet from the hellish rabid creatur
 
   Many species sore through this planet and walk its grounds. There is even a minor species that protect, and harness the energy from their planet. This is the planet Tiros, know as the light star. This particular species harness the energy in order to survive and can even control this energy and create with it. These living beings are called saiquets. They are what bring beauty and creation to their planet. These beings can float at a certain degree but can choose to walk their planet. They are bright creatures with light blue transparent energy ribbons that are connected to their body. These ribbons glow when harnessing or using their star energy. 
 
-108 years later go by the two planets Tiros and Domorios are too close to the point that cause an energetic-pull between the planets. The planet Domorios is being pulled by Tiros light energy and starts to break. Small fragments of Domorios are pulled from the planet and travel to Tiros because of the energetic-pull. Soon in time when the meteors come to Tiros atmosphere they land on the planet. Cause large dark spots on their planet. When near these spots the Saiquets energy is almost unusable. Some of these meteors have carried living beings from Domorios over to Tiros cause major confliction. The enraged rabid beings of Domorios are loose upon Tiros and consume many of the species that live their. Taking in Tiros star energy enrages the dark star energy of Domorios causes them to keep consuming them. 
+108 years later go by and the two planets Tiros and Domorios are to close to the point that cause an energetic-pull between the planets. The planet Domorios is being pulled by Tiros light energy and starts to break. Small fragments of Domorios are pulled from the planet and travel to Tiros because of the energetic-pull. Soon in time when the meteors come to Tiros atmosphere they land on the planet. Cause large dark spots on their planet. When near these spots the Saiquets energy is almost unusable. Some of these meteors have carried living beings from Domorios over to Tiros cause major confliction. The enraged rabid beings of Domorios are loose upon Tiros and consume many of the species that live their. Taking in Tiros star energy enrages the dark star energy of Domorios causes them to keep consuming them. 
 
 
 
